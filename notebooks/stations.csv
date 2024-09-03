@@ -1,0 +1,61 @@
+名称,站台种类,纬度,经度
+Bourke St/Queen St,bus_station,-37.8146151,144.96068
+Trades Hall/Lygon St,bus_station,-37.8066461,144.9660461
+Victoria St/Rathdowne St,bus_station,-37.8069541,144.9687523
+Casino/Southbank/Queens Bridge St,bus_station,-37.821694,144.9612592
+Skybus Coach Terminal,bus_station,-37.81636999999999,144.95278
+Casino/Southbank/Queens Bridge St,bus_station,-37.8220898,144.9612142
+Queensberry St/Lygon St,bus_station,-37.8051851,144.9660339
+King St/Dudley St,bus_station,-37.8092796,144.9519557
+MCEC,bus_station,-37.8239392,144.9561304
+City Rd/Queens Bridge St,bus_station,-37.8260285,144.9597234
+Clarendon St,bus_station,-37.809269,144.9829577
+Elgin St/Lygon St,bus_station,-37.7973265,144.9675283
+North Melbourne Station/Dryburgh St,bus_station,-37.80672,144.94269
+Cecil St/City Rd,bus_station,-37.8301645,144.9549929
+Nicholson St/Elgin St,bus_station,-37.7977705,144.9741992
+Eighteen Pence Ln/Lorimer St,bus_station,-37.8253346,144.9452203
+Ferrars St/City Rd,bus_station,-37.83145909999999,144.9537755
+Montague St/Normanby Rd,bus_station,-37.82948,144.947763
+Montague St/City Rd,bus_station,-37.83250160000001,144.9525764
+Montague St/City Rd,bus_station,-37.8328203,144.9517268
+Melbourne,tram_station,-37.8136276,144.9630576
+Causeway 353 Hotel,tram_station,-37.8157805,144.9631265
+Novotel Melbourne on Collins,tram_station,-37.8157663,144.9648408
+The Victoria Hotel,tram_station,-37.8142903,144.9671311
+Mantra on Little Bourke Melbourne,tram_station,-37.814443,144.958996
+Mantra on Russell Melbourne,tram_station,-37.8112795,144.9679488
+Oaks Melbourne on Market Hotel,tram_station,-37.8177472,144.9607539
+DoubleTree by Hilton Hotel Melbourne - Flinders Street,tram_station,-37.8178819,144.9654538
+Hotel Grand Chancellor Melbourne,tram_station,-37.8107074,144.9684061
+Grand Hyatt Melbourne,tram_station,-37.8152075,144.9698275
+ibis Melbourne - Hotel & Apartments,tram_station,-37.8069565,144.9613627
+"The Langham, Melbourne",tram_station,-37.82037,144.96571
+Mercure Welcome Melbourne,tram_station,-37.81279409999999,144.9646551
+Shot Tower Museum,tram_station,-37.8103869,144.9629577
+ibis budget Melbourne CBD,tram_station,-37.815848,144.9637029
+Adina Apartment Hotel Melbourne,tram_station,-37.8142469,144.9599771
+City Edge on Elizabeth Apartment Hotel,tram_station,-37.809478,144.9606924
+The Westin Melbourne,tram_station,-37.81550680000001,144.967508
+"La Camera, Italian Restaurant",tram_station,-37.8200651,144.9666394
+Melbourne,tram_station,-37.81617079999999,144.9639607
+Cheltenham,train_station,-37.96689550000001,145.0548063
+Flinders Street Railway Station,train_station,-37.8182711,144.9670618
+Carnegie,train_station,-37.8862984,145.058518
+Williams Landing,train_station,-37.8700842,144.7470073
+Melbourne Central,train_station,-37.80990389999999,144.9625258
+Parliament,train_station,-37.811302,144.9730095
+Southern Cross,train_station,-37.81839,144.9525
+Richmond,train_station,-37.8237912,144.9891978
+Collingwood,train_station,-37.80441999999999,144.99365
+Victoria Park,train_station,-37.7991487,144.9942957
+Flemington Bridge,train_station,-37.7880672,144.9392153
+Kensington,train_station,-37.7939411,144.9306625
+Newmarket Station,train_station,-37.7873776,144.9289078
+Burnley,train_station,-37.8276611,145.0077354
+Westgarth Station,train_station,-37.7805603,144.9991831
+Hawthorn,train_station,-37.8218,145.0234
+Dennis,train_station,-37.7791099,145.008228
+Footscray,train_station,-37.80159769999999,144.9016004
+Ascot Vale,train_station,-37.775268,144.9218908
+Flemington Racecourse Station,train_station,-37.78725499999999,144.9076759
